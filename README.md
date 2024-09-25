@@ -10,26 +10,26 @@ API proyect hecho con MuleSoft
 </ul>
 <h2>Tabla de contenidos</h2>
 <ul>
-  <li><a href="descripcion">Descripción</a></li>
+  <li><a href="#descripcion">Descripción</a></li>
   <ul>
-    <li><a href="uso">Uso</a></li>
+    <li><a href="#uso">Uso</a></li>
   </ul>
-  <li><a href="paso">Paso a Paso</a></li>
+  <li><a href="#paso">Paso a Paso</a></li>
   
   <ul>
-    <li><a href="cuenta">Creación de cuenta en Anypoint Platfrom</a></li>
-    <li><a href="descarga">Descarga de Anypoint Studio</a></li>
-    <li><a href="proyecto">Creación del proyecto</a></li>
-    <li><a href="listener">Añadiendo y configurando HTTP Listener Connector</a></li>
-    <li><a href="global">Generando propiedades Globales</a></li>
-    <li><a href="bd">Añadiendo la base de datos</a></li>
-    <li><a href="json">Transformando la respuesta en formato JSON</a></li>
-    <li><a href="encriptado">Encriptando la información con Secure Tool jar</a></li>
-    <li><a href="cloudhub">Despliegue en CloudHub</a></li>
-    <li><a href="auto">Configurando API AutoDiscovery</a></li>
-    <li><a href="politica">Política ClientID para Mule</a></li>    
+    <li><a href="#cuenta">Creación de cuenta en Anypoint Platfrom</a></li>
+    <li><a href="#descarga">Descarga de Anypoint Studio</a></li>
+    <li><a href="#proyecto">Creación del proyecto</a></li>
+    <li><a href="#listener">Añadiendo y configurando HTTP Listener Connector</a></li>
+    <li><a href="#global">Generando propiedades Globales</a></li>
+    <li><a href="#bd">Añadiendo la base de datos</a></li>
+    <li><a href="#json">Transformando la respuesta en formato JSON</a></li>
+    <li><a href="#encriptado">Encriptando la información con Secure Tool jar</a></li>
+    <li><a href="#cloudhub">Despliegue en CloudHub</a></li>
+    <li><a href="#auto">Configurando API AutoDiscovery</a></li>
+    <li><a href="#politica">Política ClientID para Mule</a></li>    
   </ul>
-  <li><a href="agradecimientos">Agradecimientos</a></li>
+  <li><a href="#agradecimientos">Agradecimientos</a></li>
 </ul>
 
 <h2 href="descripcion">Descipción del Proyecto</h2>
